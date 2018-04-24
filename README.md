@@ -3,4 +3,4 @@ The official website of Jikan Software
 
 Official site hosted in GitHub
 
-visit http://jikansfotware.co
+visit http://jikansoftware.co
